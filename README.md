@@ -10,4 +10,4 @@
 * I also added returning true if loc was less than x, because if it is then that value of loc has been checked as an x value, and must be magic if the program is still running. This did't make much of a difference when added on along with the first check, but it seemed to maybe give a slight speed boost, so I kept it.
 
 
-Without any of the speedups, the program takes a very long time, which I was never able to find.
+Without any of the speedups, the program takes 27 and a half minutes, although I only tested this once so it probably varies some up and down.
